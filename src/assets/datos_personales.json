@@ -1,0 +1,43 @@
+{
+	"Datos Personales": {
+		"nombre": "Ivana",
+		"Apellido": "Rojas",
+		"email": "iva@gmail.com",
+		"perfil-profesional": ""
+	},
+	"datos-academicos": [{
+			"organización": "Escuela 713",
+			"fecha-egreso": "cursando el ultimo año",
+			"titulo": "Tecnico en informática profesional y personal"
+		},
+
+		{
+			"organización": "CISCO",
+			"fecha-egreso": "2022",
+			"titulo": "Ciberseguridad"
+		},
+
+		{
+			"organización": "Aprende programando federal",
+			"fecha-egreso": "2021",
+			"titulo": "Programador de videojuegos en Unity"
+		}
+	],
+	"Hablilidades": [{
+			"Hablilidades": "Creatividad"
+		},
+		{
+			"Hablilidades": "Cuunicacion"
+		},
+		{
+			"Hablilidades": "Nivel de ingles intermedio"
+		},
+		{
+			"Hablilidades": "persistencia"
+		},
+		{
+			"Hablilidades": "paciencia"
+		}
+	]
+
+}
