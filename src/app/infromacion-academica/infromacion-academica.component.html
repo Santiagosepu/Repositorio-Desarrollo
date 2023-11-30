@@ -2,18 +2,22 @@
     <header>
                 <h1>Información Académica</h1>
             </header>
-    
+            
     <fieldset>
     
-            
-                <p>Curso "introducción a la Ciberseguridad" de Cisco</p>
+    <div *ngFor="let item of datosAcademicos" style="padding:10px">
+        <p>Organización: {{item.organizacion}}</p>
            
-                <p>Curso "Videojuegos en Unity" de Aprende programando federal</p>
+        <p>Título: {{item.titulo}}</p>
+    
+        <p>Fecha de egreso: {{item.fechaEgreso}}</p>
+        
+    </div>
             
-                <p>Escuela N°713 Juan Adbala Chayep (aún cursando)</p>
+              
             
 
     
 
     </fieldset>
-</section>    
+</section>

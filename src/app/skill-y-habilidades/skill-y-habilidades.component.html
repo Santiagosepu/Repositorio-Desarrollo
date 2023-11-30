@@ -4,19 +4,10 @@
         </header>
 
 <fieldset>
-
-
-           
-                <p>Hablo 2 idiomas: Español(lengua principal) y Ingles(avanzado)</p>
-            
-                <p>Se sobre programacion (JavaScript, HTML, Boostrap, CSS)</p>
-            
-                <p>Tengo habilidades para la comunicacion</p>
-            
-                <p>Tengo conocimientos sobre instalacion de red de internet</p>
-            
-
-           
-    
+    <div *ngFor="let item of skillyHabilidades" style="padding:10px">
+        <p>habilidades: {{item.Habilidad}}</p>
+        
+    </div>
+     
 </fieldset>
 </section>

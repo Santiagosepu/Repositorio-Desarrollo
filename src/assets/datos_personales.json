@@ -1,42 +1,49 @@
 {
-	"Datos Personales": {
-		"nombre": "Ivana",
-		"Apellido": "Rojas",
-		"email": "iva@gmail.com",
-		"perfil-profesional": ""
+	"Datos-Personales": {
+		"nombre": "Nombre: Santiago",
+		"Apellido": "Apellido: Sepulveda",
+		"Email": "Email: santiagosepu2015@gmail.com",
+		"Edad": "Edad: 18 años"
 	},
 	"datos-academicos": [{
-			"organización": "Escuela 713",
-			"fecha-egreso": "cursando el ultimo año",
+			"organizacion":"Escuela 713",
+			"fechaEgreso": "Cursando el ultimo año",
 			"titulo": "Tecnico en informática profesional y personal"
 		},
 
 		{
-			"organización": "CISCO",
-			"fecha-egreso": "2022",
+			"organizacion": "CISCO",
+			"fechaEgreso": "2022",
 			"titulo": "Ciberseguridad"
 		},
 
 		{
-			"organización": "Aprende programando federal",
-			"fecha-egreso": "2021",
+			"organizacion": "Aprende programando federal",
+			"fechaEgreso": "2021",
 			"titulo": "Programador de videojuegos en Unity"
 		}
 	],
+	
 	"Hablilidades": [{
-			"Hablilidades": "Creatividad"
+			"Habilidad": "Creatividad"
 		},
 		{
-			"Hablilidades": "Cuunicacion"
+			"Habilidad": "Comunicacion"
 		},
 		{
-			"Hablilidades": "Nivel de ingles intermedio"
+			"Habilidad": "Nivel de ingles intermedio"
 		},
 		{
-			"Hablilidades": "persistencia"
+			"Habilidad": "Persistencia"
 		},
 		{
-			"Hablilidades": "paciencia"
+			"Habilidad": "Paciencia"
+		},
+		{
+			"Habilidad": "Conocimientos sobre programacion(HTML, CSS, Angular, JavaScript, Bootstrap y Pyhton)"
+		},
+		{
+			"Habilidad": "Instalacion de redes"
 		}
 	]
 
